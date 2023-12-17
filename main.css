@@ -4,8 +4,8 @@ body {
 
 .main-div {
     background-color: #ffffff;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: 5%;
     margin-bottom: 5%;
     padding: 10px;
@@ -15,7 +15,7 @@ body {
 .menu-div {
     background-color: #acd6e6;
     border-radius: 15px;
-    margin-bottom: 10px;;
+    margin-bottom: 10px;
 }
 
 .closed {
@@ -23,33 +23,22 @@ body {
     border-radius: 15px;
     margin-bottom: 10px;
     padding: 20px;
+    margin-block-start: 0.5em;
     color: #ffffff;
     font-weight: 700;
     font-size: 30px;
     text-align: center;
+    vertical-align: middle;
 }
 
-.opening-hours {
+.generic-container {
     background-color: #d4d4d4;
     border-radius: 15px;
     margin-bottom: 10px;
     padding: 20px;
 }
 
-.opening-hours h {
-    font-size: 20px;
-    color: #ff0000;
-    font-weight: 700;
-}
-
-.contact {
-    background-color: #d4d4d4;
-    border-radius: 15px;
-    margin-bottom: 10px;
-    padding: 20px;
-}
-
-.contact h {
+.generic-container h {
     font-size: 20px;
     color: #ff0000;
     font-weight: 700;
@@ -70,4 +59,8 @@ body {
 
 .button-selected {
     background-color: #ffffff;
+}
+
+.icon {
+    vertical-align: middle;
 }
