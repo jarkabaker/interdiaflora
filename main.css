@@ -114,17 +114,26 @@ body {
     vertical-align: middle;
 }
 
-td, th {
+opening-hours-table td, th {
     border: 2px solid #bcc8c9;
     padding: 10px;
     color: white;
     text-align: left;
 }
 
-td {
+opening-hours-table td {
     background-color: #4d595e;
 }
 
-th {
+opening-hours-table th {
     background-color: #006b92;
-  }
+}
+
+contact-table {
+    text-align: left;
+}
+
+.contact-table-type {
+    padding-right: 30px;
+    font-weight: 700;
+}
