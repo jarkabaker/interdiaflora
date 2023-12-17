@@ -31,6 +31,18 @@ body {
     vertical-align: middle;
 }
 
+.title {
+    font-size: 26px;
+    color: hsl(249, 100%, 50%);
+    font-weight: 700;
+}
+
+.subtitle {
+    font-size: 20px;
+    color: hsl(249, 100%, 50%);
+    font-weight: 700;
+}
+
 .generic-container {
     background-color: #d4d4d4;
     border-radius: 15px;
