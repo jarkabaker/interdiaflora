@@ -9,14 +9,16 @@ body {
     margin-left: 5%;
     margin-right: 5%;
     padding: 20px;
+    height: 100%
 }
 
 .menu-div {
+    display: inline-block;
     background-color: #acd6e6;
     border-radius: 15px;
     margin-bottom: 10px;
-    width: 39%;
-    height: 60px;
+    max-width: 39%;
+    padding-right: 7px;
 }
 
 .closed {
@@ -24,7 +26,7 @@ body {
     border-radius: 15px;
     margin-bottom: 10px;
     padding: 10px;
-    margin-block-start: 0.5em;
+    margin-block-start: 0.3em;
     color: #ffffff;
     font-weight: 700;
     font-size: 30px;
@@ -102,8 +104,8 @@ body {
 
 .inline-icon {
     vertical-align: top;
-    width: 24px;
-    height: 24px;
+    width: 22px;
+    height: 22px;
 }
 
 .icon-and-text-div {
