@@ -1,5 +1,6 @@
 body {
-    background-color: #1593a9;
+    background-color: #bbd3d8;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .main-div {
@@ -8,7 +9,7 @@ body {
     margin-right: 5%;
     margin-top: 5%;
     margin-bottom: 5%;
-    padding: 10px;
+    padding: 20px;
     border-radius: 15px;
 }
 
@@ -48,6 +49,7 @@ body {
     border-radius: 15px;
     margin-bottom: 10px;
     padding: 20px;
+    font-size: 18px;
 }
 
 .generic-container h {
@@ -74,5 +76,9 @@ body {
 }
 
 .icon {
+    vertical-align: middle;
+}
+
+.icon-and-text-div {
     vertical-align: middle;
 }
