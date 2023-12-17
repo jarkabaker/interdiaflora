@@ -79,6 +79,27 @@ body {
     vertical-align: middle;
 }
 
+.inline-icon {
+    vertical-align: top;
+    width: 24px;
+    height: 24px;
+}
+
 .icon-and-text-div {
     vertical-align: middle;
 }
+
+td, th {
+    border: 2px solid #bcc8c9;
+    padding: 10px;
+    color: white;
+    text-align: left;
+}
+
+td {
+    background-color: #4d595e;
+}
+
+th {
+    background-color: #006b92;
+  }
