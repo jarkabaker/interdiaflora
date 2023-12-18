@@ -166,14 +166,15 @@ body {
  }
 
 .our-team {
-    border: 1px solid lightgrey;
+    border: 1px solid whitesmoke;
 }
 
-.our-team td {
- padding-left: 5px;
- padding-right: 5px;
+.our-team tr {
+    border: 1px solid whitesmoke;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 .team-member {
-    border: 1px solid lightgrey;
+    border: 1px solid whitesmoke;
 }
