@@ -40,10 +40,6 @@ body {
     margin-bottom: 35px;
 }
 
-.title-containter {
-
-}
-
 .title {
     font-size: 26px;
     color: #0080d6;
@@ -148,6 +144,10 @@ body {
 
 .contact-table {
     text-align: left;
+}
+
+.contact-table tr {
+    height: 40px;
 }
 
 .contact-table-type {
