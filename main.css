@@ -166,15 +166,11 @@ body {
  }
 
 .our-team {
-    border: 1px solid whitesmoke;
+    border-collapse: collapse;
 }
 
 .our-team tr {
     border: 1px solid whitesmoke;
     padding-left: 5px;
     padding-right: 5px;
-}
-
-.team-member {
-    border: 1px solid whitesmoke;
 }
