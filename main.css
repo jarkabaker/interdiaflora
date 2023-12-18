@@ -158,7 +158,8 @@ body {
     padding-right: 30px;
     font-weight: 700;
 }
-@media screen and (max-width: 479px) {
+
+@media only screen and (max-width: 1000px) {
     .mobile-hide { 
         display: none; 
     }
