@@ -171,6 +171,14 @@ body {
 
 .our-team tr {
     border: 1px solid whitesmoke;
+}
+
+.our-team td {
     padding-left: 5px;
     padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
+.team-member td {
+    padding: 0px;
+}   
